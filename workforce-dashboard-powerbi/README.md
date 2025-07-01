@@ -27,7 +27,7 @@ This dashboard was developed to help operations managers and senior leadership m
 ## 🚀 Live Demo
 
 Check out the interactive dashboard here:  
-🔗 [View on Looker Studio](https://lookerstudio.google.com/reporting/a44c3fc8-f7dc-42d0-9c4c-2e4105018e96/page/wsqPF)
+🔗 [View on Looker Studio](https://lookerstudio.google.com/s/r2Qj75aWW68)
 
 ## 🚀 Key Results
 
