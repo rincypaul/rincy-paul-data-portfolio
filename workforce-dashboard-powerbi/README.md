@@ -24,6 +24,10 @@ This dashboard was developed to help operations managers and senior leadership m
 ![Dashboard Overview](dashboard_home.png)  
 ![Absenteeism Trends](absenteeism_trends.png)
 
+## 🚀 Live Demo
+
+Check out the interactive dashboard here:  
+🔗 [View on Looker Studio](https://lookerstudio.google.com/reporting/YOUR-LINK-HERE)
 
 ## 🚀 Key Results
 
