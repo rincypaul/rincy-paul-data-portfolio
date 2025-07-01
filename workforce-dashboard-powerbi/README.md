@@ -21,7 +21,9 @@ This dashboard was developed to help operations managers and senior leadership m
 
 ## 📸 Screenshots
 
-_Add visuals of your report pages if available — or we’ll do that together next._
+![Dashboard Overview](dashboard_home.png)  
+![Absenteeism Trends](absenteeism_trends.png)
+
 
 ## 🚀 Key Results
 
